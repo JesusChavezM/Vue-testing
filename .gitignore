@@ -26,7 +26,13 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+*.zip
 
 *.tsbuildinfo
 
 *storybook.log
+
+# process images
+
+/ImagesToProcess
+
