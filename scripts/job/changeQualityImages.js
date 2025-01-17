@@ -10,7 +10,7 @@ import archiver from 'archiver'
 // npx ts-node scripts/job/changeQualityImages.js
 
 // Ruta de la carpeta de imágenes de entrada
-const inputFolder = './ImagesToProcess'
+const inputFolder = './input-images'
 const outputArchive = './output-images.zip'
 
 // Calidad deseada (0 a 100)
